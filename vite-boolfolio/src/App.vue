@@ -3,15 +3,11 @@
 </script>
 
 <template>
-  <header>
-   
-  </header>
-
-  <main>
-    
-  </main>
+  <h1>
+    ciaone
+  </h1>
 </template>
 
-<style>
-
+<style lang="scss">
+@use './style/general.scss' as *;
 </style>
